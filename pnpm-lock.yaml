@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@quilted/browserslist-config': ^0.1.9
-  '@quilted/cloudflare': ^0.1.49
+  '@quilted/cloudflare': ^0.1.50
   '@quilted/craft': ^0.1.190
   '@quilted/eslint-config': ^0.1.16
   '@quilted/prettier': ^0.2.11
@@ -19,7 +19,7 @@ specifiers:
 
 devDependencies:
   '@quilted/browserslist-config': 0.1.9
-  '@quilted/cloudflare': 0.1.49_aijtujlcodsqwhdyns5cfqw7le
+  '@quilted/cloudflare': 0.1.50_aijtujlcodsqwhdyns5cfqw7le
   '@quilted/craft': 0.1.190_xevjbgccdh2a4qxi6o6epootem
   '@quilted/eslint-config': 0.1.16_typescript@4.9.5
   '@quilted/prettier': 0.2.11
@@ -2633,8 +2633,8 @@ packages:
     resolution: {integrity: sha512-7FZjc1Vn5dPvGfF+zE2GvYnTkbpWmxB400hWeWm2dWjkKJlpTcl5zUPD9VsJAjRisakqUZa7/s7jkTMg/PQQbQ==}
     dev: true
 
-  /@quilted/cloudflare/0.1.49_aijtujlcodsqwhdyns5cfqw7le:
-    resolution: {integrity: sha512-nC92xgAGC45rMwvYPib6uvkwPhMJykOwi2Oq1r5eROVgKyfYPTMW749KEqtwOnsLRGxGWHw22HHYAheweWY59A==}
+  /@quilted/cloudflare/0.1.50_aijtujlcodsqwhdyns5cfqw7le:
+    resolution: {integrity: sha512-vWou1XQEcusPI/npKbTfsBt5VjRsZYaOAD0fl5XVGwPFSO0t3KlgDdzmXOhAEvwUEQ1BOWQW/Kfs+SBprprSrQ==}
     peerDependencies:
       '@quilted/craft': ^0.1.190
       '@quilted/quilt': ^0.5.133
