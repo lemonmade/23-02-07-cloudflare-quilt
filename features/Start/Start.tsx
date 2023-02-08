@@ -8,5 +8,5 @@ export default function Start() {
   // you can remove this hook.
   usePerformanceNavigation();
 
-  return <div className={styles.Start}>Hello world!</div>;
+  return <div className={styles.Start}>Hello world! (streaming headers)</div>;
 }
