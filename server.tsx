@@ -12,6 +12,7 @@ router.get(
       return <App />;
     },
     {
+      stream: 'headers',
       assets: createAssetManifest(),
     },
   ),
