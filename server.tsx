@@ -9,6 +9,9 @@ router.get(
   createServerRender(
     async () => {
       const {default: App} = await import('./App');
+
+      await new Promise((resolve) => setTimeout(resolve, 500));
+
       return <App />;
     },
     {
